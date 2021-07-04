@@ -11,7 +11,7 @@ Frontend = Sitefinity Renderer app
 
 Backend   = Sitefinity CMS app
 
-Have dont the part where you configure a seperate Sitefinity CMS app. The link provided below takes you to the exact section
+Havn't done the part where you configure a separate Sitefinity CMS app. The link provided below takes you to the exact section
 
 https://www.progress.com/documentation/sitefinity-cms/setup-the-asp.net-core-renderer#configure-sitefinity-cms
 
